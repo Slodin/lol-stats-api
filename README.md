@@ -1,1 +1,1 @@
-# lol-stats-api
+Back End of LoL stats coding exercise
